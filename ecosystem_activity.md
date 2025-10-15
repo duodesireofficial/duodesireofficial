@@ -1,3 +1,4 @@
 # DuoDesire Tech Startup Ecosystem Changelog
 
 - [2025-10-15T13:42:00] chore: optimize package manifests
+- [2025-10-15T10:15:00] docs: update deployment architecture guide
