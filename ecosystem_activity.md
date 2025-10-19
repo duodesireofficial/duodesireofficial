@@ -5,3 +5,4 @@
 - [2025-10-15T17:35:00] docs: add system design workflows
 - [2025-10-16T16:38:00] docs: update deployment architecture guide
 - [2025-10-16T17:22:00] docs: refresh API contract documentation
+- [2025-10-19T19:23:00] chore: update CI build matrix parameters
