@@ -16,3 +16,4 @@
 - [2025-10-28T13:35:00] feat: revise module boundary definitions
 - [2025-10-28T09:48:00] chore: dependency security audit
 - [2025-10-30T15:31:00] docs: refresh API contract documentation
+- [2025-10-30T12:30:00] chore: update CI build matrix parameters
