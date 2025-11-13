@@ -32,3 +32,4 @@
 - [2025-11-10T12:27:00] feat: update performance benchmark records
 - [2025-11-10T15:27:00] feat: update performance benchmark records
 - [2025-11-12T21:27:00] docs: update architecture specifications
+- [2025-11-13T20:54:00] docs: update deployment architecture guide
