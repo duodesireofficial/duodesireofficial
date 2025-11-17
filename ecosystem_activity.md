@@ -47,3 +47,4 @@
 - [2025-11-17T17:43:00] docs: refresh API contract documentation
 - [2025-11-17T13:48:00] docs: update architecture specifications
 - [2025-11-17T20:42:00] docs: update architecture specifications
+- [2025-11-17T21:10:00] docs: add system design workflows
