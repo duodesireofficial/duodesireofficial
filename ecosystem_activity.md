@@ -48,3 +48,4 @@
 - [2025-11-17T13:48:00] docs: update architecture specifications
 - [2025-11-17T20:42:00] docs: update architecture specifications
 - [2025-11-17T21:10:00] docs: add system design workflows
+- [2025-11-18T16:46:00] docs: update deployment architecture guide
