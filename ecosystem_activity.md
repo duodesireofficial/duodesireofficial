@@ -51,3 +51,4 @@
 - [2025-11-18T16:46:00] docs: update deployment architecture guide
 - [2025-11-18T13:30:00] refactor: polish responsive layout guidelines
 - [2025-11-18T10:15:00] chore: telemetry and observability tuning
+- [2025-11-19T19:46:00] feat: add startup milestone checklist
