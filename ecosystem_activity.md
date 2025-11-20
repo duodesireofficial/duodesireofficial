@@ -54,3 +54,4 @@
 - [2025-11-19T19:46:00] feat: add startup milestone checklist
 - [2025-11-19T19:52:00] chore: telemetry and observability tuning
 - [2025-11-19T17:35:00] docs: refresh API contract documentation
+- [2025-11-20T16:52:00] chore: telemetry and observability tuning
