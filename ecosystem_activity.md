@@ -63,3 +63,4 @@
 - [2025-11-22T13:18:00] docs: add system design workflows
 - [2025-11-23T13:25:00] feat: update performance benchmark records
 - [2025-11-23T17:22:00] feat: add startup milestone checklist
+- [2025-11-23T16:20:00] chore: update CI build matrix parameters
