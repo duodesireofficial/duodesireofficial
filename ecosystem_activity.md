@@ -66,3 +66,4 @@
 - [2025-11-23T16:20:00] chore: update CI build matrix parameters
 - [2025-11-23T11:54:00] feat: revise module boundary definitions
 - [2025-11-24T10:51:00] docs: refresh API contract documentation
+- [2025-11-24T09:37:00] docs: update deployment architecture guide
