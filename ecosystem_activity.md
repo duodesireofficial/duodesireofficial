@@ -80,3 +80,4 @@
 - [2025-12-01T20:38:00] chore: update CI build matrix parameters
 - [2025-12-01T19:52:00] refactor: polish responsive layout guidelines
 - [2025-12-01T13:41:00] docs: update architecture specifications
+- [2025-12-03T12:50:00] docs: update deployment architecture guide
