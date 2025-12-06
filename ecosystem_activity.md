@@ -83,3 +83,4 @@
 - [2025-12-03T12:50:00] docs: update deployment architecture guide
 - [2025-12-03T18:52:00] chore: update CI build matrix parameters
 - [2025-12-06T11:35:00] feat: add startup milestone checklist
+- [2025-12-06T17:44:00] refactor: polish responsive layout guidelines
