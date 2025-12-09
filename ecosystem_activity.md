@@ -88,3 +88,4 @@
 - [2025-12-08T19:21:00] chore: dependency security audit
 - [2025-12-09T12:53:00] chore: telemetry and observability tuning
 - [2025-12-09T20:50:00] docs: refresh API contract documentation
+- [2025-12-09T13:10:00] docs: update deployment architecture guide
