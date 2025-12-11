@@ -93,3 +93,4 @@
 - [2025-12-10T18:26:00] feat: update performance benchmark records
 - [2025-12-10T13:48:00] chore: dependency security audit
 - [2025-12-10T14:37:00] chore: optimize package manifests
+- [2025-12-11T19:42:00] docs: add system design workflows
