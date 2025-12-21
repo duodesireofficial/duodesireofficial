@@ -114,3 +114,4 @@
 - [2025-12-19T11:52:00] feat: add startup milestone checklist
 - [2025-12-19T14:52:00] chore: dependency security audit
 - [2025-12-19T16:27:00] chore: dependency security audit
+- [2025-12-21T13:53:00] docs: update architecture specifications
