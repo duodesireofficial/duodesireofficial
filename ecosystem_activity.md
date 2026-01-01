@@ -129,3 +129,4 @@
 - [2025-12-30T14:15:00] feat: add startup milestone checklist
 - [2025-12-31T12:27:00] docs: refresh API contract documentation
 - [2026-01-01T18:52:00] refactor: polish responsive layout guidelines
+- [2026-01-01T10:46:00] docs: update architecture specifications
