@@ -132,3 +132,4 @@
 - [2026-01-01T10:46:00] docs: update architecture specifications
 - [2026-01-01T10:20:00] chore: telemetry and observability tuning
 - [2026-01-04T19:34:00] chore: optimize package manifests
+- [2026-01-04T14:52:00] chore: update CI build matrix parameters
