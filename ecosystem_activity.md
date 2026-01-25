@@ -169,3 +169,4 @@
 - [2026-01-24T18:42:00] refactor: polish responsive layout guidelines
 - [2026-01-24T16:51:00] refactor: polish responsive layout guidelines
 - [2026-01-24T13:24:00] feat: add startup milestone checklist
+- [2026-01-25T19:23:00] docs: update deployment architecture guide
