@@ -184,3 +184,4 @@
 - [2026-02-01T16:50:00] feat: update performance benchmark records
 - [2026-02-02T17:10:00] feat: update performance benchmark records
 - [2026-02-02T17:42:00] feat: update performance benchmark records
+- [2026-02-02T15:33:00] chore: update CI build matrix parameters
