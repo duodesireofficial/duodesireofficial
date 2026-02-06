@@ -186,3 +186,4 @@
 - [2026-02-02T17:42:00] feat: update performance benchmark records
 - [2026-02-02T15:33:00] chore: update CI build matrix parameters
 - [2026-02-03T15:53:00] feat: add startup milestone checklist
+- [2026-02-06T16:32:00] docs: update deployment architecture guide
