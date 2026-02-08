@@ -197,3 +197,4 @@
 - [2026-02-08T19:19:00] docs: add system design workflows
 - [2026-02-08T21:11:00] chore: telemetry and observability tuning
 - [2026-02-08T10:11:00] chore: update CI build matrix parameters
+- [2026-02-08T16:36:00] feat: add startup milestone checklist
