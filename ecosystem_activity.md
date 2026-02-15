@@ -207,3 +207,4 @@
 - [2026-02-13T11:21:00] chore: telemetry and observability tuning
 - [2026-02-14T15:12:00] chore: dependency security audit
 - [2026-02-14T12:43:00] chore: telemetry and observability tuning
+- [2026-02-15T15:30:00] chore: update CI build matrix parameters
