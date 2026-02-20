@@ -213,3 +213,4 @@
 - [2026-02-17T15:23:00] docs: refresh API contract documentation
 - [2026-02-17T14:14:00] feat: add startup milestone checklist
 - [2026-02-17T17:10:00] feat: update performance benchmark records
+- [2026-02-20T19:17:00] chore: telemetry and observability tuning
