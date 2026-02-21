@@ -217,3 +217,4 @@
 - [2026-02-21T10:18:00] chore: dependency security audit
 - [2026-02-21T18:16:00] chore: telemetry and observability tuning
 - [2026-02-21T14:10:00] chore: optimize package manifests
+- [2026-02-21T14:21:00] docs: update deployment architecture guide
