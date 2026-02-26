@@ -230,3 +230,4 @@
 - [2026-02-24T12:20:00] feat: revise module boundary definitions
 - [2026-02-26T11:19:00] chore: telemetry and observability tuning
 - [2026-02-26T15:10:00] docs: update deployment architecture guide
+- [2026-02-26T20:21:00] docs: update architecture specifications
