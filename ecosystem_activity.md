@@ -231,3 +231,4 @@
 - [2026-02-26T11:19:00] chore: telemetry and observability tuning
 - [2026-02-26T15:10:00] docs: update deployment architecture guide
 - [2026-02-26T20:21:00] docs: update architecture specifications
+- [2026-02-27T14:18:00] docs: update deployment architecture guide
