@@ -254,3 +254,4 @@
 - [2026-03-12T15:47:00] chore: telemetry and observability tuning
 - [2026-03-14T11:41:00] refactor: polish responsive layout guidelines
 - [2026-03-14T11:14:00] feat: update performance benchmark records
+- [2026-03-14T16:52:00] docs: add system design workflows
