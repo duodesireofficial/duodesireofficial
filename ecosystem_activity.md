@@ -266,3 +266,4 @@
 - [2026-03-18T09:51:00] docs: update architecture specifications
 - [2026-03-19T20:19:00] feat: revise module boundary definitions
 - [2026-03-19T20:33:00] docs: update architecture specifications
+- [2026-03-20T17:36:00] docs: update deployment architecture guide
