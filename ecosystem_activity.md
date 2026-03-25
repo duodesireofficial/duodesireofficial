@@ -280,3 +280,4 @@
 - [2026-03-24T11:15:00] docs: update deployment architecture guide
 - [2026-03-24T12:51:00] refactor: polish responsive layout guidelines
 - [2026-03-24T16:50:00] docs: update architecture specifications
+- [2026-03-25T18:30:00] chore: update CI build matrix parameters
