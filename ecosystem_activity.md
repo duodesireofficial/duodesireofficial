@@ -283,3 +283,4 @@
 - [2026-03-25T18:30:00] chore: update CI build matrix parameters
 - [2026-03-25T17:38:00] feat: add startup milestone checklist
 - [2026-03-26T13:44:00] chore: dependency security audit
+- [2026-03-28T11:45:00] docs: update deployment architecture guide
