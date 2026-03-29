@@ -289,3 +289,4 @@
 - [2026-03-28T16:12:00] docs: add system design workflows
 - [2026-03-29T16:24:00] docs: add system design workflows
 - [2026-03-29T13:50:00] feat: add startup milestone checklist
+- [2026-03-29T09:48:00] docs: add system design workflows
