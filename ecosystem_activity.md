@@ -291,3 +291,4 @@
 - [2026-03-29T13:50:00] feat: add startup milestone checklist
 - [2026-03-29T09:48:00] docs: add system design workflows
 - [2026-03-29T13:21:00] chore: optimize package manifests
+- [2026-03-31T19:50:00] chore: update CI build matrix parameters
