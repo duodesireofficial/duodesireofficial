@@ -294,3 +294,4 @@
 - [2026-03-31T19:50:00] chore: update CI build matrix parameters
 - [2026-04-02T21:44:00] docs: add system design workflows
 - [2026-04-02T21:19:00] docs: refresh API contract documentation
+- [2026-04-02T10:26:00] docs: update architecture specifications
