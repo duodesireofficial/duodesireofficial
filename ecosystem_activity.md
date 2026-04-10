@@ -308,3 +308,4 @@
 - [2026-04-08T14:12:00] docs: refresh API contract documentation
 - [2026-04-08T20:12:00] chore: telemetry and observability tuning
 - [2026-04-08T19:33:00] docs: update deployment architecture guide
+- [2026-04-10T15:50:00] feat: revise module boundary definitions
