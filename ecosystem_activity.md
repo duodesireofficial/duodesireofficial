@@ -310,3 +310,4 @@
 - [2026-04-08T19:33:00] docs: update deployment architecture guide
 - [2026-04-10T15:50:00] feat: revise module boundary definitions
 - [2026-04-12T09:26:00] chore: dependency security audit
+- [2026-04-12T14:45:00] docs: add system design workflows
