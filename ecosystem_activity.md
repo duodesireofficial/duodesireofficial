@@ -323,3 +323,4 @@
 - [2026-04-15T19:55:00] feat: update performance benchmark records
 - [2026-04-16T21:35:00] docs: refresh API contract documentation
 - [2026-04-16T19:55:00] chore: update CI build matrix parameters
+- [2026-04-17T13:51:00] chore: optimize package manifests
