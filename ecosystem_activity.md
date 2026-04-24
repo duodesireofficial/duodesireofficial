@@ -334,3 +334,4 @@
 - [2026-04-23T16:21:00] docs: refresh API contract documentation
 - [2026-04-23T10:23:00] refactor: polish responsive layout guidelines
 - [2026-04-23T15:48:00] chore: dependency security audit
+- [2026-04-24T21:24:00] docs: add system design workflows
