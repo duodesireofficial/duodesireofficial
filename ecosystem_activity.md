@@ -342,3 +342,4 @@
 - [2026-04-27T09:21:00] feat: add startup milestone checklist
 - [2026-04-28T16:18:00] chore: dependency security audit
 - [2026-04-28T12:34:00] chore: telemetry and observability tuning
+- [2026-04-29T18:52:00] chore: telemetry and observability tuning
