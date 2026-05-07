@@ -349,3 +349,4 @@
 - [2026-05-03T10:41:00] docs: refresh API contract documentation
 - [2026-05-04T15:13:00] feat: update performance benchmark records
 - [2026-05-06T16:51:00] chore: dependency security audit
+- [2026-05-07T19:34:00] chore: update CI build matrix parameters
