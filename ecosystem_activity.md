@@ -363,3 +363,4 @@
 - [2026-05-17T15:12:00] docs: add system design workflows
 - [2026-05-17T11:26:00] chore: dependency security audit
 - [2026-05-17T09:51:00] chore: optimize package manifests
+- [2026-05-18T09:42:00] feat: add startup milestone checklist
