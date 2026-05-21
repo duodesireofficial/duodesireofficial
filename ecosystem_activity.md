@@ -376,3 +376,4 @@
 - [2026-05-20T17:36:00] docs: refresh API contract documentation
 - [2026-05-21T10:39:00] chore: dependency security audit
 - [2026-05-21T17:12:00] chore: telemetry and observability tuning
+- [2026-05-21T17:16:00] docs: update deployment architecture guide
