@@ -379,3 +379,4 @@
 - [2026-05-21T17:16:00] docs: update deployment architecture guide
 - [2026-05-25T12:37:00] feat: revise module boundary definitions
 - [2026-05-25T09:14:00] docs: update architecture specifications
+- [2026-05-25T14:19:00] docs: add system design workflows
