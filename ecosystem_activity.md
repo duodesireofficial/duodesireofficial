@@ -381,3 +381,4 @@
 - [2026-05-25T09:14:00] docs: update architecture specifications
 - [2026-05-25T14:19:00] docs: add system design workflows
 - [2026-05-26T14:33:00] chore: dependency security audit
+- [2026-05-27T11:15:00] feat: revise module boundary definitions
