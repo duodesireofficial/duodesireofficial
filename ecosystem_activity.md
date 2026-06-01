@@ -390,3 +390,4 @@
 - [2026-05-30T18:21:00] docs: refresh API contract documentation
 - [2026-06-01T16:49:00] docs: update deployment architecture guide
 - [2026-06-01T10:15:00] docs: update deployment architecture guide
+- [2026-06-01T18:54:00] docs: update architecture specifications
