@@ -388,3 +388,4 @@
 - [2026-05-29T21:30:00] docs: add system design workflows
 - [2026-05-30T13:26:00] chore: optimize package manifests
 - [2026-05-30T18:21:00] docs: refresh API contract documentation
+- [2026-06-01T16:49:00] docs: update deployment architecture guide
