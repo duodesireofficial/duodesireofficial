@@ -393,3 +393,4 @@
 - [2026-06-01T18:54:00] docs: update architecture specifications
 - [2026-06-01T18:38:00] docs: update architecture specifications
 - [2026-06-04T11:45:00] docs: add system design workflows
+- [2026-06-04T11:32:00] docs: refresh API contract documentation
