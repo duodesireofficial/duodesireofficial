@@ -394,3 +394,4 @@
 - [2026-06-01T18:38:00] docs: update architecture specifications
 - [2026-06-04T11:45:00] docs: add system design workflows
 - [2026-06-04T11:32:00] docs: refresh API contract documentation
+- [2026-06-04T14:21:00] chore: telemetry and observability tuning
