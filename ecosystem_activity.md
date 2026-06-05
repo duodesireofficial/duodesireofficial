@@ -395,3 +395,4 @@
 - [2026-06-04T11:45:00] docs: add system design workflows
 - [2026-06-04T11:32:00] docs: refresh API contract documentation
 - [2026-06-04T14:21:00] chore: telemetry and observability tuning
+- [2026-06-05T17:49:00] feat: add startup milestone checklist
