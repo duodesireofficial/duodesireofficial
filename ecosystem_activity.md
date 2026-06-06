@@ -401,3 +401,4 @@
 - [2026-06-05T17:39:00] docs: update architecture specifications
 - [2026-06-06T09:43:00] feat: add startup milestone checklist
 - [2026-06-06T16:20:00] refactor: polish responsive layout guidelines
+- [2026-06-06T12:39:00] chore: update CI build matrix parameters
