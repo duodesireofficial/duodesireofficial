@@ -416,3 +416,4 @@
 - [2026-06-17T12:12:00] docs: refresh API contract documentation
 - [2026-06-18T12:53:00] docs: update architecture specifications
 - [2026-06-18T21:18:00] docs: add system design workflows
+- [2026-06-18T21:32:00] feat: revise module boundary definitions
