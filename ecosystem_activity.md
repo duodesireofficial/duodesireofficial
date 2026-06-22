@@ -421,3 +421,4 @@
 - [2026-06-19T12:11:00] feat: update performance benchmark records
 - [2026-06-19T17:33:00] feat: revise module boundary definitions
 - [2026-06-22T17:16:00] chore: optimize package manifests
+- [2026-06-22T19:31:00] docs: update architecture specifications
