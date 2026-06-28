@@ -433,3 +433,4 @@
 - [2026-06-28T18:17:00] chore: telemetry and observability tuning
 - [2026-06-28T16:34:00] docs: update architecture specifications
 - [2026-06-28T16:46:00] docs: update architecture specifications
+- [2026-06-28T18:29:00] chore: update CI build matrix parameters
