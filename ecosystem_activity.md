@@ -443,3 +443,4 @@
 - [2026-06-30T17:19:00] docs: add system design workflows
 - [2026-07-01T19:51:00] chore: dependency security audit
 - [2026-07-01T14:16:00] refactor: polish responsive layout guidelines
+- [2026-07-01T19:50:00] docs: update deployment architecture guide
