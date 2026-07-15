@@ -461,3 +461,4 @@
 - [2026-07-14T20:27:00] docs: add system design workflows
 - [2026-07-15T18:37:00] docs: update deployment architecture guide
 - [2026-07-15T13:47:00] feat: add startup milestone checklist
+- [2026-07-15T15:37:00] docs: update deployment architecture guide
