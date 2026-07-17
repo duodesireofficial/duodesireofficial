@@ -465,3 +465,4 @@
 - [2026-07-16T17:14:00] feat: update performance benchmark records
 - [2026-07-16T19:44:00] chore: update CI build matrix parameters
 - [2026-07-17T17:23:00] chore: update CI build matrix parameters
+- [2026-07-17T13:47:00] docs: update architecture specifications
