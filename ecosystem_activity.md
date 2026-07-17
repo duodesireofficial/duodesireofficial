@@ -464,3 +464,4 @@
 - [2026-07-15T15:37:00] docs: update deployment architecture guide
 - [2026-07-16T17:14:00] feat: update performance benchmark records
 - [2026-07-16T19:44:00] chore: update CI build matrix parameters
+- [2026-07-17T17:23:00] chore: update CI build matrix parameters
