@@ -466,3 +466,4 @@
 - [2026-07-16T19:44:00] chore: update CI build matrix parameters
 - [2026-07-17T17:23:00] chore: update CI build matrix parameters
 - [2026-07-17T13:47:00] docs: update architecture specifications
+- [2026-07-20T10:40:00] feat: add startup milestone checklist
