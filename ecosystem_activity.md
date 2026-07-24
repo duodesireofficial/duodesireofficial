@@ -469,3 +469,4 @@
 - [2026-07-20T10:40:00] feat: add startup milestone checklist
 - [2026-07-22T09:34:00] docs: add system design workflows
 - [2026-07-22T11:20:00] chore: optimize package manifests
+- [2026-07-24T14:16:00] docs: update deployment architecture guide
