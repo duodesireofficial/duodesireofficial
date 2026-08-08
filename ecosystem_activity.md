@@ -484,3 +484,4 @@
 - [2026-07-29T19:10:00] feat: update performance benchmark records
 - [2026-08-02T15:42:00] feat: update performance benchmark records
 - [2026-08-05T11:14:00] feat: add startup milestone checklist
+- [2026-08-08T21:28:00] docs: update deployment architecture guide
