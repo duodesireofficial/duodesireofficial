@@ -488,3 +488,4 @@
 - [2026-08-08T11:44:00] docs: refresh API contract documentation
 - [2026-08-08T19:41:00] docs: refresh API contract documentation
 - [2026-08-08T21:34:00] feat: update performance benchmark records
+- [2026-08-09T17:33:00] docs: add system design workflows
