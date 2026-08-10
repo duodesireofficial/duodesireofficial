@@ -491,3 +491,4 @@
 - [2026-08-09T17:33:00] docs: add system design workflows
 - [2026-08-09T09:15:00] docs: refresh API contract documentation
 - [2026-08-09T16:34:00] chore: telemetry and observability tuning
+- [2026-08-10T20:29:00] chore: optimize package manifests
