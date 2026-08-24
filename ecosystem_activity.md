@@ -509,3 +509,4 @@
 - [2026-08-20T13:21:00] docs: refresh API contract documentation
 - [2026-08-23T12:48:00] refactor: polish responsive layout guidelines
 - [2026-08-23T16:55:00] feat: update performance benchmark records
+- [2026-08-24T17:40:00] docs: update architecture specifications
