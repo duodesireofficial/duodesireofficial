@@ -515,3 +515,4 @@
 - [2026-08-25T17:21:00] docs: refresh API contract documentation
 - [2026-08-25T13:43:00] docs: update deployment architecture guide
 - [2026-08-25T15:52:00] chore: telemetry and observability tuning
+- [2026-08-27T14:15:00] docs: update architecture specifications
