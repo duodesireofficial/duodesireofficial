@@ -517,3 +517,4 @@
 - [2026-08-25T15:52:00] chore: telemetry and observability tuning
 - [2026-08-27T14:15:00] docs: update architecture specifications
 - [2026-08-27T13:52:00] chore: update CI build matrix parameters
+- [2026-08-27T17:11:00] feat: revise module boundary definitions
