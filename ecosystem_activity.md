@@ -521,3 +521,4 @@
 - [2026-08-28T15:52:00] docs: refresh API contract documentation
 - [2026-08-29T14:54:00] chore: update CI build matrix parameters
 - [2026-08-29T18:15:00] docs: refresh API contract documentation
+- [2026-08-31T12:12:00] feat: add startup milestone checklist
