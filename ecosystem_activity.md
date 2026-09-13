@@ -539,3 +539,4 @@
 - [2026-09-11T21:55:00] feat: add startup milestone checklist
 - [2026-09-11T18:32:00] feat: revise module boundary definitions
 - [2026-09-13T16:11:00] refactor: polish responsive layout guidelines
+- [2026-09-13T15:21:00] chore: update CI build matrix parameters
