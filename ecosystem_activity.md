@@ -543,3 +543,4 @@
 - [2026-09-13T20:17:00] feat: update performance benchmark records
 - [2026-09-13T12:41:00] chore: optimize package manifests
 - [2026-09-14T19:17:00] chore: optimize package manifests
+- [2026-09-14T20:29:00] docs: add system design workflows
