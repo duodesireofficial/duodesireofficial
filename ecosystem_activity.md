@@ -554,3 +554,4 @@
 - [2026-09-17T11:29:00] docs: update architecture specifications
 - [2026-09-17T10:41:00] chore: telemetry and observability tuning
 - [2026-09-17T18:31:00] chore: optimize package manifests
+- [2026-09-17T16:33:00] docs: update deployment architecture guide
