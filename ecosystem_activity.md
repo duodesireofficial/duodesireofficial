@@ -551,3 +551,4 @@
 - [2026-09-15T11:32:00] feat: add startup milestone checklist
 - [2026-09-15T13:48:00] feat: update performance benchmark records
 - [2026-09-16T17:19:00] feat: revise module boundary definitions
+- [2026-09-17T11:29:00] docs: update architecture specifications
