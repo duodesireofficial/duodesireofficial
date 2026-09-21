@@ -563,3 +563,4 @@
 - [2026-09-19T21:16:00] refactor: polish responsive layout guidelines
 - [2026-09-20T09:27:00] chore: dependency security audit
 - [2026-09-21T19:19:00] chore: update CI build matrix parameters
+- [2026-09-21T12:53:00] docs: update architecture specifications
