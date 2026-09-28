@@ -573,3 +573,4 @@
 - [2026-09-28T09:27:00] chore: update CI build matrix parameters
 - [2026-09-28T17:49:00] docs: refresh API contract documentation
 - [2026-09-28T21:49:00] chore: optimize package manifests
+- [2026-09-28T12:23:00] docs: refresh API contract documentation
