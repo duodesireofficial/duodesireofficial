@@ -577,3 +577,4 @@
 - [2026-09-29T10:54:00] chore: telemetry and observability tuning
 - [2026-09-30T13:51:00] chore: telemetry and observability tuning
 - [2026-10-02T10:33:00] chore: update CI build matrix parameters
+- [2026-10-02T19:44:00] feat: add startup milestone checklist
