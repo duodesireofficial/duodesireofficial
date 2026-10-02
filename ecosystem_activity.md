@@ -576,3 +576,4 @@
 - [2026-09-28T12:23:00] docs: refresh API contract documentation
 - [2026-09-29T10:54:00] chore: telemetry and observability tuning
 - [2026-09-30T13:51:00] chore: telemetry and observability tuning
+- [2026-10-02T10:33:00] chore: update CI build matrix parameters
