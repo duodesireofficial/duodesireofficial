@@ -4,7 +4,7 @@
 
 # ✨ DuoDesire
 
-### *Parent Studio & Technology Incubator for the Nirox Startup Ecosystem*
+### *High-Growth Tech Startup & Digital Innovation Hub*
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
@@ -16,7 +16,7 @@
 
 <br/>
 
-> **DuoDesire** is the parent technology studio dedicated to researching, incubating, and engineering state-of-the-art mobile products, AI workflows, and digital consumer ecosystems for **Nirox**.
+> **DuoDesire** is a fast-paced tech startup dedicated to researching, building, and engineering next-generation mobile products, AI workflows, and digital consumer ecosystems.
 
 <br/>
 
@@ -24,21 +24,21 @@
 
 ---
 
-### 🚀 Flagship Portfolio & Incubated Ventures
+### 🚀 Startup Product Portfolio & Innovations
 
 <table>
   <thead>
     <tr>
       <th width="28%">Product</th>
       <th width="42%">Core Innovation</th>
-      <th width="30%">Ecosystem Role</th>
+      <th width="30%">Domain</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>👶 BabyBloom</b></td>
       <td>Smart parenting companion with pediatric growth trackers, milestone analytics & AI insights.</td>
-      <td>Family & Health Technology</td>
+      <td>Family & HealthTech</td>
     </tr>
     <tr>
       <td><b>⏰ Auralarm</b></td>
@@ -48,7 +48,7 @@
     <tr>
       <td><b>👗 Formality</b></td>
       <td>Smart wardrobe management, outfit planner, formality tier classification, and weather intelligence.</td>
-      <td>FashionTech & Smart Wear</td>
+      <td>FashionTech & AI Wear</td>
     </tr>
     <tr>
       <td><b>⌚ Watch-Verse</b></td>
@@ -68,12 +68,12 @@
 ### 🔬 Engineering & Design Philosophy
 
 - **Zero Compromise UX/UI:** Fluid 60fps micro-animations, tailored glassmorphism, and intuitive human ergonomics.
-- **Offline-First Resilience:** Local database caches (Hive, SQLite) synchronized effortlessly with cloud backends.
+- **Offline-First Resilience:** Local database caches synchronized effortlessly with cloud backends.
 - **Rigorous Reliability:** Comprehensive testing pipelines with unit, widget, and integration coverage.
 - **Privacy & Security First:** End-to-end data integrity adhering to international security standards.
 
 ---
 
 <div align="center">
-  <sub>© DuoDesire • Nirox Startup Ecosystem. All rights reserved.</sub>
+  <sub>© DuoDesire Tech Startup. All rights reserved.</sub>
 </div>
