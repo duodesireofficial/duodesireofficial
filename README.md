@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="DuoDesire Logo" width="180" style="border-radius: 50%; box-shadow: 0 0 25px rgba(62, 207, 142, 0.4);" />
+
 # ✨ DuoDesire
 
 ### *Parent Studio & Technology Incubator for the Nirox Startup Ecosystem*
