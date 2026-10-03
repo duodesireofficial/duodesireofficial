@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="DuoDesire Logo" width="180" style="border-radius: 50%; box-shadow: 0 0 25px rgba(62, 207, 142, 0.4);" />
+<img src="./assets/banner.png" alt="DuoDesire Tech Innovation" width="100%" />
 
-# ✨ DuoDesire
-
-### *High-Growth Tech Startup & Digital Innovation Hub*
+<br/><br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
@@ -16,7 +14,7 @@
 
 <br/>
 
-> **DuoDesire** is a fast-paced tech startup dedicated to researching, building, and engineering next-generation mobile products, AI workflows, and digital consumer ecosystems.
+> **DuoDesire** is a fast-paced tech startup dedicated to engineering next-generation mobile applications, AI workflows, and digital consumer ecosystems.
 
 <br/>
 
